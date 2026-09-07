@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A VuePress project",
   "license": "MIT",
+  "packageManager": "yarn@4.9.1",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build docs",
